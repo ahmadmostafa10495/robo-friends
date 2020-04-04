@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "//ahmadmostafa10495.github.io/robo-friends/static/css/main.ef42b2e7.chunk.css",
+    "main.js": "//ahmadmostafa10495.github.io/robo-friends/static/js/main.b4da38ac.chunk.js",
+    "main.js.map": "//ahmadmostafa10495.github.io/robo-friends/static/js/main.b4da38ac.chunk.js.map",
+    "runtime-main.js": "//ahmadmostafa10495.github.io/robo-friends/static/js/runtime-main.7d79b9f9.js",
+    "runtime-main.js.map": "//ahmadmostafa10495.github.io/robo-friends/static/js/runtime-main.7d79b9f9.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "//ahmadmostafa10495.github.io/robo-friends/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.6d5955fc.chunk.js": "//ahmadmostafa10495.github.io/robo-friends/static/js/2.6d5955fc.chunk.js",
+    "static/js/2.6d5955fc.chunk.js.map": "//ahmadmostafa10495.github.io/robo-friends/static/js/2.6d5955fc.chunk.js.map",
+    "index.html": "//ahmadmostafa10495.github.io/robo-friends/index.html",
+    "precache-manifest.9c615fff4f591d43531047b332dd41d6.js": "//ahmadmostafa10495.github.io/robo-friends/precache-manifest.9c615fff4f591d43531047b332dd41d6.js",
+    "service-worker.js": "//ahmadmostafa10495.github.io/robo-friends/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "//ahmadmostafa10495.github.io/robo-friends/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.ef42b2e7.chunk.css.map": "//ahmadmostafa10495.github.io/robo-friends/static/css/main.ef42b2e7.chunk.css.map",
+    "static/js/2.6d5955fc.chunk.js.LICENSE.txt": "//ahmadmostafa10495.github.io/robo-friends/static/js/2.6d5955fc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "//ahmadmostafa10495.github.io/robo-friends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d79b9f9.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.6d5955fc.chunk.js",
+    "static/css/main.ef42b2e7.chunk.css",
+    "static/js/main.b4da38ac.chunk.js"
+  ]
+}
